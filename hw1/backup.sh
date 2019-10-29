@@ -10,8 +10,7 @@
 # Processing options/parameters #
 #################################
 
-backup_path=/home/vova/Desktop/Android
-# backup_path=$HOME
+backup_path=$HOME
 catalog=backup_$(date +%Y-%m-%d_%H%M%S)
 archive=backup_$(date +%Y-%m-%d_%H%M%S)
 extensions=("h hpp cpp c")
